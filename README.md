@@ -2,12 +2,12 @@ Greetings. For this repo to work you need to create a small Database in any SQL 
 
 To connect to this database in the env. file look up for these lines Example:
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=reactcrudinfocasas <------ the name of your DB
-DB_USERNAME=root    <----------------- username of the DB
-DB_PASSWORD=password  <-------------------- Chosen password for the DB
+DB_CONNECTION=mysql <br>
+DB_HOST=127.0.0.1 <br>
+DB_PORT=3306 <br>
+DB_DATABASE=reactcrudinfocasas <------ the name of your DB <br>
+DB_USERNAME=root    <----------------- username of the DB <br>
+DB_PASSWORD=password  <-------------------- Chosen password for the DB <br> <br>
 
 after this the connection is done properly, set a migration to this database via the terminal you do this by using the command 
 
